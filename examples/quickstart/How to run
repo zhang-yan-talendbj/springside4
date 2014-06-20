@@ -1,0 +1,1 @@
+$ mvn clean package -Pfunctional-test -Dselenium.driver=chrome -Dwebdriver.chrome.driver=d:/java/selenium/chromedriver.exe
